@@ -1,0 +1,14 @@
+body{
+    background-image: url("https://img-fotki.yandex.ru/get/67890/136164467.17/0_12bc81_21263ac1_orig.png");
+}
+p{
+    color: blue;
+    text-align: center;
+}
+#text:first-letter{
+    color:red;
+    font-size: larger;
+}
+h1{
+    text-align: center;
+}

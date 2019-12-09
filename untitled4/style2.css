@@ -1,0 +1,10 @@
+#div2{
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/squared_metal.png");
+    width: 500px;
+    height: 300px;
+    margin-left: 30%;
+    margin-top: 150px;
+}
+body{
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/noisy_grid.png");
+}
